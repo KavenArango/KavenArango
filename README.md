@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Graduate from college
 <br/>
+
 ---
 
 ### Languages and Tools:
