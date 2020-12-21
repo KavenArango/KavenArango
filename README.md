@@ -4,7 +4,7 @@
 
 ## I'm a Student and Soon to be Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Graduate from college and get an internship
 
 ---
