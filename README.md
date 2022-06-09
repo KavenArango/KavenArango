@@ -2,10 +2,10 @@
 
 ---
 
-## I'm a Student and Soon to be Developer
+## I'm a Developer
 
 - 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Graduate from college and get an internship
+- 🥅 Goals: Be the best dev I can be.
 
 ---
 
